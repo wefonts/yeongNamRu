@@ -1,5 +1,5 @@
 # yeongNamRu
-밀양영남루체
+밀양 영남루체
 
 <pre>
 @font-face {
